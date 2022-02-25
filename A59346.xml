@@ -1,0 +1,540 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Songs in the new opera, call'd the World in the moon</title>
+            <author>Purcell, Daniel, 1660?-1717.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59346</idno>
+            <idno type="STC">Wing S2719</idno>
+            <idno type="STC">ESTC R220127</idno>
+            <idno type="EEBO-CITATION">99831555</idno>
+            <idno type="PROQUEST">99831555</idno>
+            <idno type="VID">36018</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36018)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2097:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Songs in the new opera, call'd the World in the moon</title>
+                  <author>Purcell, Daniel, 1660?-1717.</author>
+                  <author>Clarke, Jeremiah, 1669?-1707. aut</author>
+                  <author>Settle, Elkanah, 1648-1724. World in the moon. aut</author>
+               </titleStmt>
+               <extent>[8] leaves : engr. music  </extent>
+               <publicationStmt>
+                  <publisher>Sould by I: Walsh musicall instrument maker in ordinary to his Majesty, at the Golden Harpe and Ho-boy, in Catherine-Street near Summersett House in the Strand, and I. Hare musicall instrument seller at he Golden Violl in St. Paules Church-yard, and at his shopp in Freemans-yard in Cornhill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Fully engraved.</note>
+                  <note>Song lyrics set to music by Daniel Purcell and Jeremiah Clarke, the words attributed to Elkanah Settle.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Music in theaters --  Early works to 1800.</term>
+               <term>Music --  England --  History --  17th century.</term>
+               <term>Operas --  Excerpts --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36018:1"/>
+            <p>
+               <hi>SONGS</hi> IN THE NEW <hi>OPERA,</hi> Call'd the <hi>WORLD</hi> in the <hi>MOON</hi>
+            </p>
+            <p>Sould by <hi>I:</hi> Walsh Musicall Instrument maker in Or<g ref="char:EOLhyphen"/>dinary to his <hi>Majesty,</hi> at the Golden Harpe and Ho-boy, in Catherine-Street near Summersett House in the Strand, and I: Hare Musicall Instrument Seller at y<hi rend="sup">e</hi> Golden Violl in S<hi rend="sup">t</hi>. Paules Churchyard, and at his Shopp in Freemans-Yard in Cornhill, 1697</p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb facs="tcp:36018:2"/>
+            <head>Sung by <hi>M<hi rend="sup">rs</hi> Magnus</hi> and a <hi>Boy</hi>
+            </head>
+            <byline>set by <hi>M<hi rend="sup">r</hi> Daniel Purcell.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> To Cynthia then our homage pay,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> &amp; dedicate, &amp; dedicate th'eternal day, th'eter╌nall th'eter╌nall th'eter╌nall th'eternall day;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Her praises move, her praises move, her praises move, y<hi rend="sup">e</hi> Heavenly Round,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> her Songs, her Songs, with Jo╌peans Crownd,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> up to her Brothers throne, up to her Brothers throne, up to her Brothers throne, her Brothers throne, shall sound, shall sound,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> up to her Brothers throne shall sound, shall sound,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> up to her Brothers throne shall sound.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> To Cynthia then our homage pay,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> &amp; dedicate, and dedicate th'e ternall day, th'eternall th'eter╌nall th'eter╌ nall, th'eternall day;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Her praises move, her praises move, her praises move, y<hi rend="sup">e</hi> Heavenly Round,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> her Songs, her Songs, with Jo╌peans Crownd,</l>
+               <l>up to her Brothers throne, up to her Brothers throne, her Brothers throne, shall sound, shall sound,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> up to her Brothers throne shall sound, shall sound,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> up to her Brothers throne shall sound.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb facs="tcp:36018:3"/>
+            <head>Sung by <hi>M<hi rend="sup">r</hi>. Freeman, &amp; M<hi rend="sup">r</hi>. Leveridge,</hi>
+            </head>
+            <byline>set by <hi>M<hi rend="sup">r</hi> Ieremiah Clark</hi>
+            </byline>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Whilst thus our Calmer pleasure flow╌ flow╌flow╌</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> whilst thus our Calmer pleasure flow</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> what Storms╌disturbs, disturbs╌the Globe be╌low, ╌low</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Tempest Rattle, fire and Ruin,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Teare,╌ Teare,╌ Teare the lower World a Sunder,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Teare, Teare,╌ Teare y<hi rend="sup">e</hi> lower World a Sunder,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Teare╌ Teare,╌ Teare y<hi rend="sup">e</hi> lower World a Sunder.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Whilst thus our Calmer pleasure flow╌ flow╌ flow╌</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Whilst that our Calmer pleasure flow,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> what Storms╌disturbs the Globe be╌low, ╌low,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Bloud &amp; Battle, War and Thunder,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Teare Teare the lower World a Sunder,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Teare╌ Teare╌ the lower World a Sunder,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Teare╌ Teare╌y<hi rend="sup">e</hi> lower World a Sunder</l>
+            </lg>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb facs="tcp:36018:4"/>
+            <head>Sung by a <hi>Girl</hi>
+            </head>
+            <byline>set by <hi>M<hi rend="sup">r</hi>. Daniel Purcell.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> See, See in the Smiling Month of May,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> y<hi rend="sup">e</hi> Songsters, of y<hi rend="sup">e</hi> Grove y<hi rend="sup">e</hi> Play,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> just, just Such a poor, poor, poor young thing as they,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> a little, little Bird So very Small,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> that just can tattle, Chirp &amp; prattle,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I can but Sing, &amp; Oh, Oh, &amp; Oh, &amp; Oh, Oh, thats all,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But if I Live till past Fifteen,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> See Such fine Sparks as here are Seen,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I fear I fear you'l teach me then to perch</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> &amp; plum &amp; dreſs &amp; pride,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and more then tattle, Chrip &amp; prattle,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I then Shall Sing, Shall Sing, &amp; Love, Love, Love Shall Sing &amp; Love, besid'e,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Shall Sing, &amp; Love, Love, Love, Shall Sing &amp; Love beside.</l>
+            </lg>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="song">
+            <pb facs="tcp:36018:5"/>
+            <head>Sung by <hi>M<hi rend="sup">rs</hi>: Temple,</hi>
+            </head>
+            <byline>set by <hi>M<hi rend="sup">r</hi>: Ieremiah Clark.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> 
+                  <seg rend="decorInit">I</seg>s'e no more to Shady Coverts,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Jocky's Eyne are all my Joy,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Beautys there I Ken that cannot,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> must not, shall not Steal away;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> What woo'd Jockey now doe too me,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Surely your to me unkind,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I'se nere See you nay you fly me,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> yet are nere from out my mind.</l>
+            </lg>
+            <lg>
+               <l>Tell me why tis thus you use me,</l>
+               <l>Take me quickly to your Armes,</l>
+               <l>Where in blliſses blithly basking,</l>
+               <l>Each may rivall the Other's Charm's,</l>
+               <l>O but fy my Jocky pray now,</l>
+               <l>What d'ye; doe not; lett me goe,</l>
+               <l>O I vow you will undoe me,</l>
+               <l>what to doe I doe not know.</l>
+            </lg>
+            <div type="flute_transposition">
+               <head>For the Flute</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:36018:6"/>
+            <head>Sung by <hi>M<hi rend="sup">rs</hi>: Linsey</hi>
+            </head>
+            <byline>set by <hi>M<hi rend="sup">r</hi>: Daniel Purcell</hi>
+            </byline>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> 
+                  <seg rend="decorInit">T</seg>hen come, kind Damon, come away,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> to Cynthias Pow'r advance,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> the Sylvians they shall Pipe &amp; Play,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and weel lead up, &amp; weel lead up, &amp; weel lead up the Dance,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> y<hi rend="sup">e</hi> Sylvians they shall Pipe and Play,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and weel lead up, and weel lead up, and weel lead up the Dance.</l>
+            </lg>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <div type="flute_transposition">
+               <head>For the Flute</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:36018:7"/>
+            <head>Sung by <hi>M<hi rend="sup">rs</hi>: Croſs,</hi>
+            </head>
+            <byline>set by <hi>M<hi rend="sup">r</hi>: Ieremiah Clark.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> 
+                  <seg rend="decorInit">D</seg>ivine Astrea hither flew,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> to Cynthia's brighter throne,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> She left the Iron World, below</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> to bleſs the Silver Moon</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> She left the Iron World below</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> to bleſs y<hi rend="sup">e</hi> Silver Moon.</l>
+            </lg>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <lg>
+               <l>Tho' Phoebus with his hotter beam's,</l>
+               <l>Do's Gold in Earth Create;</l>
+               <l>That lead's those Wretches to Extremes,</l>
+               <l>Of Av'rice Lust and Hate.</l>
+            </lg>
+            <div type="flute_transposition">
+               <head>For the Flute</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:36018:8"/>
+            <head>Sung by <hi>M<hi rend="sup">s</hi>: Croſs,</hi>
+            </head>
+            <byline>set by <hi>M<hi rend="sup">r</hi>: Ieremiah Clark.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> 
+                  <seg rend="decorInit">S</seg>mile then with a beam Devine,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> weel be blest if you but Shine,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Hap╌py then our Pains and Toyls,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> wit only Lives when Beavty Smiles,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> Hap╌py then our Pains and Toyls,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> wit only Lives, wit only: Lives, when Beavty Smiles,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> wit only Lives, wit only Lives, when Beavty Smiles.</l>
+            </lg>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <div type="flute_transposition">
+               <head>For the Flute</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
